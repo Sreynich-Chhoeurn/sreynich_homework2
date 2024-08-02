@@ -1,0 +1,44 @@
+header {
+    margin: 20px 20px 20px 20px;
+    background: pink;
+    border-top: 20px solid purple;
+    border-radius: 20px;
+    border-bottom: 20px solid purple;
+}
+
+#green {
+    margin: 30px 30px 30px 30px;
+    text-align: center;
+    background: green;
+    padding-top: 60px;
+    padding-bottom: 40px;
+    color: white;
+    border: 5px yellow;
+    border-style: dashed;
+
+
+}
+
+#red {
+    margin: 30px 30px 30px;
+    background: red;
+    border-right: 20px solid orange;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    width: 400px;
+    color: white;
+    text-align: center;
+}
+
+#blue {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    width: 50%;
+    background: blue;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    border: 5px black;
+    border-style: dotted;
+}
